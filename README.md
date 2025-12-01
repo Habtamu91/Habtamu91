@@ -1,27 +1,25 @@
----
-
-# 👋 **Hi, I’m Habtamu Belay Tessema**
+# 👋 Hi, I’m Habtamu Belay Tessema
 
 ### *Data Science Student | Machine Learning Practitioner | AI & Generative AI Explorer*
 
-💻 3rd-year **Data Science student at Bahir Dar University**
-🚀 **10 Academy Trainee — Cohort B5**
-🤖 Passionate about **Machine Learning, Generative AI, RAG Systems, NLP, and Computer Vision**
+💻 4th-year **Data Science student at Bahir Dar University**  
+🚀 **10 Academy Trainee — Cohort B5**  
+🤖 Passionate about **Machine Learning, Generative AI, RAG Systems, NLP, and Computer Vision**  
 📊 Skilled in **EDA, predictive modeling, time series, fraud detection & ML deployment**
 
 ---
 
-## 🧠 **What I’m Working On**
+## 🧠 What I’m Working On
 
-🔹 **Intelligent Complaint Chatbot (RAG + LangChain + OpenAI APIs)**
-🔹 **E-commerce Fraud Detection (10 Academy Week 8 & 9)**
-🔹 **Amharic E-commerce NER – Full pipeline (scraping → labeling → model training → vendor analytics)**
-🔹 **Smart Learning Assistant for Kids (Streamlit app for Ministry of Innovation & Tech)**
-🔹 **Solar Data Analytics (10 Academy Week 1 Challenge)**
+- 🔹 **Intelligent Complaint Chatbot (RAG + LangChain + OpenAI APIs)**  
+- 🔹 **E-commerce Fraud Detection (10 Academy Week 8 & 9)**  
+- 🔹 **Amharic E-commerce NER – Full pipeline (scraping → labeling → model training → vendor analytics)**  
+- 🔹 **Smart Learning Assistant for Kids (Streamlit app for Ministry of Innovation & Tech)**  
+- 🔹 **Solar Data Analytics (10 Academy Week 1 Challenge)**
 
 ---
 
-## 🛠 **Skills & Tools**
+## 🛠 Skills & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
@@ -40,56 +38,52 @@
 
 ---
 
-## 📈 **Featured Projects**
+## 📈 Featured Projects
 
-| 🔍 Project                                              | 💡 Description                                                                 | 🧰 Tech Stack                    |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------ | -------------------------------- |
-| 🧠 **Intelligent Complaint Chatbot (RAG)**              | AI chatbot answering financial complaints using retrieval-augmented generation | Python, LangChain, OpenAI, FAISS |
-| 🛍 **Amharic E-commerce NER**                           | Complete NER pipeline for Amharic text extraction from Telegram                | Python, spaCy, Transformers      |
-| 💳 **E-commerce Fraud Detection (10 Academy)**          | Detecting fraud using ML + feature engineering                                 | Python, Scikit-learn, XGBoost    |
-| 🌞 **Solar Data Analytics (Benin, Togo, Sierra Leone)** | EDA, cleaning & cross-country analytics for 10 Academy                         | Python, Pandas, Seaborn          |
-| 🧒 **Smart Learning Assistant for Kids**                | Streamlit app with audio lessons, dashboards, and parental controls            | Streamlit, JSON, Python          |
-| 🏠 **House Price Prediction App**                       | Regression model + Streamlit deployment                                        | Python, Scikit-learn, Streamlit  |
+| 🔍 Project | 💡 Description | 🧰 Tech Stack |
+|-----------|----------------|----------------|
+| 🧠 [Intelligent Complaint Chatbot (RAG)](https://github.com/Habtamu91/intelligent-complaint-chatbot) | AI chatbot answering financial complaints using retrieval‑augmented generation | Python, LangChain, OpenAI, FAISS |
+| 🛍 [Amharic E-commerce NER](https://github.com/Habtamu91/Amharic-Ecommerce-NER) | Full NER pipeline for Amharic text extraction from Telegram | Python, spaCy, Transformers |
+| 💳 [E-commerce Fraud Detection](https://github.com/Habtamu91/fraud-detection-project) | Detecting fraud using ML + feature engineering | Python, Scikit‑learn, XGBoost |
+| 🌞 [Solar Data Analytics](https://github.com/Habtamu91/solar-challenge-week1) | EDA, cleaning & cross-country analytics for 10 Academy solar datasets | Python, Pandas, Seaborn |
+| 🧒 [Smart Learning Assistant for Kids](https://github.com/Habtamu91/Smart-Learning-Assistant-for-Kids) | Streamlit app with audio lessons, dashboards, and parental controls | Streamlit, JSON, Python |
+| 🏠 [House Price Prediction App](https://github.com/Habtamu91/house-price-prediction) | Regression model + Streamlit deployment | Python, Scikit‑learn, Streamlit |
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Habtamu91&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Habtamu91&theme=tokyonight" />
 </p>
 
-Replace **YOUR_USERNAME** with your GitHub name.
+---
+
+## 🌱 Currently Learning
+
+- Advanced RAG & Agentic AI (LangGraph, LangChain, CrewAI, AutoGen)  
+- Deep Learning Architectures (CNNs, Transformers, GANs)  
+- MLOps: FastAPI, Docker, CI/CD  
+- Time series & forecasting models (ARIMA, LSTM)
 
 ---
 
-## 🌱 **Currently Learning**
-
-* Advanced RAG & Agentic AI (LangGraph, LangChain, CrewAI, AutoGen)
-* Deep Learning Architectures (CNNs, Transformers, GANs)
-* MLOps: FastAPI, Docker, CI/CD
-* Time series & forecasting models (ARIMA, LSTM)
-
----
-
-## 🌐 **Connect With Me**
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/habtamu-belay-tessema-b6244a354/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/Habtamu91" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:habtamubelay543@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-> *“Turning data into intelligence—one project at a time.”*
-> — **Habtamu Belay**
-
----
+> *“Turning data into intelligence — one project at a time.”*  
+> ✍️ **Habtamu Belay Tessema**
