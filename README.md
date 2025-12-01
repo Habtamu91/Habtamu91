@@ -3,7 +3,7 @@
 ### *Data Science Student | Machine Learning Practitioner | AI & Generative AI Explorer*
 
 💻 4th-year **Data Science student at Bahir Dar University**  
-🚀 **10 Academy Trainee — Cohort B5**  
+🚀 **10 Academy Trainee — Cohort 567**  
 🤖 Passionate about **Machine Learning, Generative AI, RAG Systems, NLP, and Computer Vision**  
 📊 Skilled in **EDA, predictive modeling, time series, fraud detection & ML deployment**
 
