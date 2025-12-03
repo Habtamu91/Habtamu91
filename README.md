@@ -53,15 +53,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Habtamu91&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Habtamu91&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habtamu91&layout=compact&theme=tokyonight" />
-</p>
-
+![Habtamu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Habtamu91&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ---
 
 ## 🌱 Currently Learning
