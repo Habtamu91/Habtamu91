@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Habtamu Belay Tessema
+# 👋 Hi, I'm Habtamu Belay Tessema
 
 ### *Data Science Student | Machine Learning Practitioner | AI & Generative AI Explorer*
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 What I’m Working On
+## 🧠 What I'm Working On
 
 - 🔹 **Intelligent Complaint Chatbot (RAG + LangChain + OpenAI APIs)**  
 - 🔹 **E-commerce Fraud Detection (10 Academy Week 8 & 9)**  
@@ -53,7 +53,15 @@
 
 ## 📊 GitHub Stats
 
-![Habtamu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Habtamu91&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Habtamu91&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Habtamu91&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habtamu91&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
 ## 🌱 Currently Learning
@@ -81,5 +89,5 @@
 
 ---
 
-> *“Turning data into intelligence — one project at a time.”*  
+> *"Turning data into intelligence — one project at a time."*  
 > ✍️ **Habtamu Belay Tessema**
