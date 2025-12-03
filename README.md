@@ -55,7 +55,11 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Habtamu91&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Habtamu91&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Habtamu91&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habtamu91&layout=compact&theme=tokyonight" />
 </p>
 
 ---
